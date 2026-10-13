@@ -43,3 +43,5 @@ npm run lint
 
 - Set the `OPENWEATHER_API_KEY` environment variable in your hosting provider.
 - The app only requests metric units from OpenWeatherMap and converts to Fahrenheit for display; adjust the API call if you prefer imperial units by default.
+<!-- external PR to trigger USP workflow -->
+<!-- sync 2 -->
